@@ -1,5 +1,7 @@
 package java_hello;
 
+// 커밋 테스트
+
 public class ArithOp {
 	public static void main(String[] args) {
 		int num1 = 7;

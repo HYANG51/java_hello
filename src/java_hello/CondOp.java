@@ -25,6 +25,7 @@ public class CondOp {
 		//삼항 연산자
 		big = (num1 > num2) ? (num1 - num2) : (num2 -num1);
 		System.out.println("절대값 큰 수 : " + big);
+		
 		//if문
 		if((num1 - num2) > 0) {
 			System.out.println("절대값 큰 수 : " + (num1 - num2));
